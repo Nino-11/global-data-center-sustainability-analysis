@@ -83,6 +83,22 @@ Some of the key findings explored in this project include:
 
 ---
 
+## Sample Visualizations
+
+### Infrastructure Scaling Relationships
+
+![Hexbin Analysis](hexbin_scaling_analysis.png)
+
+### Correlation Analysis
+
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Clustering & PCA Analysis
+
+![KMeans PCA](kmeans_pca_clusters.png)
+
+---
+
 ## Repository Contents
 
 | File | Description |
