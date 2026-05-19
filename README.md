@@ -2,6 +2,8 @@
 
 Machine learning and data analysis project exploring global data center sustainability, renewable energy adoption, infrastructure growth, and Green AI trends across countries worldwide.
 
+Research Paper: [Toward Sustainable Artificial Intelligence](https://nino-11.github.io/papers/Toward_Sustainable_Artificial_Intelligence.pdf)
+
 ---
 
 ## Project Overview
